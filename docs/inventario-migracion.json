@@ -1,0 +1,1416 @@
+[
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": ".gitignore",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/.DS_Store",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/.classpath",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/.gitignore",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/.project",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/.settings/org.eclipse.core.resources.prefs",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/.settings/org.eclipse.jdt.core.prefs",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/.DS_Store",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/.DS_Store",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/Ejercicio.java",
+    "destination": "01-fundamentos/src/bienvenida/Ejercicio.java",
+    "reason": "",
+    "notes": [
+      "Añadir package bienvenida para coincidir con la ruta"
+    ]
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo01_HolaMundo.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo01_HolaMundo.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo02_TiposPrimitivos.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo02_TiposPrimitivos.java",
+    "reason": "",
+    "notes": [
+      "Reparación de tildes dañadas"
+    ]
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo03_IntroduccionString.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo03_IntroduccionString.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo04_LecturaDeDatosDelUsuarioConJOptionPane.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo04_LecturaDeDatosDelUsuarioConJOptionPane.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo05_LecturaDeDatosDelUsuarioConScanner.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo05_LecturaDeDatosDelUsuarioConScanner.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo06_OperacionesAritmeticasBasicas.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo06_OperacionesAritmeticasBasicas.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo07_OperadoresANivelDeBits.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo07_OperadoresANivelDeBits.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/bienvenida/ejercicios/Ejemplo08_CalculoSolucionesEcuacionSegundoGrado.java",
+    "destination": "01-fundamentos/src/bienvenida/ejercicios/Ejemplo08_CalculoSolucionesEcuacionSegundoGrado.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/examen/Examen.java",
+    "destination": null,
+    "reason": "Examen / solución evaluable",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/examenes/final27042025/Ejercicio1.java",
+    "destination": null,
+    "reason": "Examen / solución evaluable",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/examenes/final27042025/Unfichero.java",
+    "destination": null,
+    "reason": "Examen / solución evaluable",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/module-info.java",
+    "destination": null,
+    "reason": "Descriptor del proyecto monolítico con dependencias ajenas a esta selección",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejemplos/Ejercicio1.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejemplos/Ejercicio1.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio01_MayorDeDosNumerosIntroducidos.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio01_MayorDeDosNumerosIntroducidos.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio02_MenorDeDosNumerosIntroducidos.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio02_MenorDeDosNumerosIntroducidos.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio03_MayorDeCincoVariables.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio03_MayorDeCincoVariables.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio05_MayorYMenorDeCincoVariables.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio05_MayorYMenorDeCincoVariables.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio06_ComprobarNumeroPar.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio06_ComprobarNumeroPar.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio07_ComprobarNumeroParANivelDeBits.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque01/Ejercicio07_ComprobarNumeroParANivelDeBits.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque02/Ejercicio01_SumaDeNumerosPorCategorias.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque02/Ejercicio01_SumaDeNumerosPorCategorias.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque02/Ejercicio02_ContadoresDeNumerosPorCategorias.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque02/Ejercicio02_ContadoresDeNumerosPorCategorias.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio01_NotaDeExamen.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio01_NotaDeExamen.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio02_CalculadoraAvanzada.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio02_CalculadoraAvanzada.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio03_CalculadoraGeometria.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio03_CalculadoraGeometria.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio04_DevolucionEnMonedas.java",
+    "destination": "02-condicionales/src/modulo1Condicionales/ejercicios/bloque03/Ejercicio04_DevolucionEnMonedas.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejemplos/BucleFor.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejemplos/BucleFor.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejemplos/Ejercicio1Clase.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejemplos/Ejercicio1Clase.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejemplos/LuckyNumber.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejemplos/LuckyNumber.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque01/Ejercicio01_SumarNumerosMayoresDe10.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque01/Ejercicio01_SumarNumerosMayoresDe10.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque01/Ejercicio02_SumarNumerosMayoresDe10TantosComoQuieraUsuario.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque01/Ejercicio02_SumarNumerosMayoresDe10TantosComoQuieraUsuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque01/Ejercicio03_PositivosYNegativosTantosComoQuieraUsuario.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque01/Ejercicio03_PositivosYNegativosTantosComoQuieraUsuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque02/Ejercicio01_MediaTantosComoQuieraUsuario.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque02/Ejercicio01_MediaTantosComoQuieraUsuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque02/Ejercicio02_MayorYMenorTantosComoQuieraUsuario.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque02/Ejercicio02_MayorYMenorTantosComoQuieraUsuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque02/Ejercicio03_MultiplosHastaUnLimite.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque02/Ejercicio03_MultiplosHastaUnLimite.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque02/Ejercicio04_MultiplosHastaUnLimiteDadoPorUsuario.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque02/Ejercicio04_MultiplosHastaUnLimiteDadoPorUsuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque03/Ejercicio01_SumaMediaNumerosHasta0.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque03/Ejercicio01_SumaMediaNumerosHasta0.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque03/Ejercicio02_MayorMenorNumerosHasta0.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque03/Ejercicio02_MayorMenorNumerosHasta0.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque03/Ejercicio03_TablaDeMultiplicarHasta0.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque03/Ejercicio03_TablaDeMultiplicarHasta0.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo2Bucles/ejercicios/bloque03/Ejercicio04_ContadorPositivosYNegativosHasta0.java",
+    "destination": "03-bucles/src/modulo2Bucles/ejercicios/bloque03/Ejercicio04_ContadorPositivosYNegativosHasta0.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/.DS_Store",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/EjemplosIniciales.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejemplos/EjemplosIniciales.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/EjemplosOrdenacion.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejemplos/EjemplosOrdenacion.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/Ejercicio3.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejemplos/Ejercicio3.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/Matrices.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejemplos/Matrices.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/tresenraya/Jugador.java",
+    "destination": "09-proyectos/tres-en-raya-objetos/src/modulo3Arrays/ejemplos/tresenraya/Jugador.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/tresenraya/Principal.java",
+    "destination": "09-proyectos/tres-en-raya-objetos/src/modulo3Arrays/ejemplos/tresenraya/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejemplos/tresenraya/Tablero.java",
+    "destination": "09-proyectos/tres-en-raya-objetos/src/modulo3Arrays/ejemplos/tresenraya/Tablero.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque01/Ejercicio01_150ElementosEnArray_SumaMediaMayorMenor.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque01/Ejercicio01_150ElementosEnArray_SumaMediaMayorMenor.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque01/Ejercicio02_150ElementosEnArray_SumaMediaMayorMenorEntreLimites.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque01/Ejercicio02_150ElementosEnArray_SumaMediaMayorMenorEntreLimites.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque01/Ejercicio03_MuestraArrayEnOrdenInverso.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque01/Ejercicio03_MuestraArrayEnOrdenInverso.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque01/Ejercicio04_EncuentraElementoEnArray.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque01/Ejercicio04_EncuentraElementoEnArray.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque01/Ejercicio05_SumaValoresParesEImpares.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque01/Ejercicio05_SumaValoresParesEImpares.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque01/Ejercicio06_SumaValoresIndicePar.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque01/Ejercicio06_SumaValoresIndicePar.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque02/Ejercicio01_ParesCambianSignoEnArray.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque02/Ejercicio01_ParesCambianSignoEnArray.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque02/Ejercicio02_DosArraysCrearTercerArray.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque02/Ejercicio02_DosArraysCrearTercerArray.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque02/Ejercicio03_MultiplicaElementosArray.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque02/Ejercicio03_MultiplicaElementosArray.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque02/Ejercicio04_DeplazamientoCiclicoDerecha.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque02/Ejercicio04_DeplazamientoCiclicoDerecha.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque02/Ejercicio05_DeplazamientoCiclicoDerechaLugaresPersonalizados.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque02/Ejercicio05_DeplazamientoCiclicoDerechaLugaresPersonalizados.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque02/Ejercicio06_DeplazamientoCiclicoLugaresYDireccionPersonalizadas.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque02/Ejercicio06_DeplazamientoCiclicoLugaresYDireccionPersonalizadas.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque03/Ejemplo04_OrdenacionSeleccion.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque03/Ejemplo04_OrdenacionSeleccion.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque03/Ejercicio01_OrdenacionBurbuja.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque03/Ejercicio01_OrdenacionBurbuja.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque03/Ejercicio03_OrdenacionBurbujaShell.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque03/Ejercicio03_OrdenacionBurbujaShell.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque04/Ejercicio01_MostrarCadenaOrdenInverso.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque04/Ejercicio01_MostrarCadenaOrdenInverso.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque04/Ejercicio02_ContarVocalesYConsonantes.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque04/Ejercicio02_ContarVocalesYConsonantes.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque04/Ejercicio03_Palindromo.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque04/Ejercicio03_Palindromo.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque04/Ejercicio04_ContarPalabras.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque04/Ejercicio04_ContarPalabras.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque04/Ejercicio05_CompararCadenas.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque04/Ejercicio05_CompararCadenas.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque04/Ejercicio06_ObtenerCadenaMinusculas.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque04/Ejercicio06_ObtenerCadenaMinusculas.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque05/Ejercicio01_EliminarEspaciosEnBlancoEnCadena.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque05/Ejercicio01_EliminarEspaciosEnBlancoEnCadena.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque05/Ejercicio02_CifradoCesar.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque05/Ejercicio02_CifradoCesar.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque05/Ejercicio03_ContarOcurrencias.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque05/Ejercicio03_ContarOcurrencias.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque05/Ejercicio04_EncontrarPalabraMasLarga.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque05/Ejercicio04_EncontrarPalabraMasLarga.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque05/Ejercicio05_InvertirOrdenLetrasEnPalabras.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque05/Ejercicio05_InvertirOrdenLetrasEnPalabras.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo3Arrays/ejercicios/bloque05/Ejercicio06_Pangrama.java",
+    "destination": "04-arrays-strings/src/modulo3Arrays/ejercicios/bloque05/Ejercicio06_Pangrama.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/Animal.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/Animal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/AnimalQueVuela.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/AnimalQueVuela.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/AnimalTerrestre.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/AnimalTerrestre.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/AnimalVolador.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/AnimalVolador.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/Burro.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/Burro.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/Gato.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/Gato.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/Perro.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/Perro.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/Principal.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/coleccionAntiguedadesLuis/Antiguedades.java",
+    "destination": "09-proyectos/coleccion-antiguedades/src/modulo4Objetos/coleccionAntiguedadesLuis/Antiguedades.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/coleccionAntiguedadesLuis/Coches.java",
+    "destination": "09-proyectos/coleccion-antiguedades/src/modulo4Objetos/coleccionAntiguedadesLuis/Coches.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/coleccionAntiguedadesLuis/ColeccionAntiguedades.java",
+    "destination": "09-proyectos/coleccion-antiguedades/src/modulo4Objetos/coleccionAntiguedadesLuis/ColeccionAntiguedades.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/coleccionAntiguedadesLuis/Cuadros.java",
+    "destination": "09-proyectos/coleccion-antiguedades/src/modulo4Objetos/coleccionAntiguedadesLuis/Cuadros.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/coleccionAntiguedadesLuis/Joyas.java",
+    "destination": "09-proyectos/coleccion-antiguedades/src/modulo4Objetos/coleccionAntiguedadesLuis/Joyas.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/coleccionAntiguedadesLuis/Libros.java",
+    "destination": "09-proyectos/coleccion-antiguedades/src/modulo4Objetos/coleccionAntiguedadesLuis/Libros.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejemplo2/Empleado.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/ejemplo2/Empleado.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejemplo2/EmpleadoPorHoras.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/ejemplo2/EmpleadoPorHoras.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejemplo2/EmpleadoTiempoCompleto.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/ejemplo2/EmpleadoTiempoCompleto.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejemplo2/Principal.java",
+    "destination": "06-herencia-polimorfismo/src/modulo4Objetos/ejemplo2/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejercicioOO/Persona.java",
+    "destination": "05-poo/src/modulo4Objetos/ejercicioOO/Persona.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejercicioOO/Principal.java",
+    "destination": "05-poo/src/modulo4Objetos/ejercicioOO/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/ejercicioOO/PrincipalNOStatic.java",
+    "destination": "05-poo/src/modulo4Objetos/ejercicioOO/PrincipalNOStatic.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/spaceInvader/Humano.java",
+    "destination": "09-proyectos/space-invader/src/modulo4Objetos/spaceInvader/Humano.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/spaceInvader/Invasor.java",
+    "destination": "09-proyectos/space-invader/src/modulo4Objetos/spaceInvader/Invasor.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/spaceInvader/Jugador.java",
+    "destination": "09-proyectos/space-invader/src/modulo4Objetos/spaceInvader/Jugador.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/spaceInvader/Principal.java",
+    "destination": "09-proyectos/space-invader/src/modulo4Objetos/spaceInvader/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo4Objetos/spaceInvader/Tablero.java",
+    "destination": "09-proyectos/space-invader/src/modulo4Objetos/spaceInvader/Tablero.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo5/coleccionDatos/Package.java",
+    "destination": "07-colecciones/src/modulo5/coleccionDatos/Package.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo5/coleccionDatos/PostOfficeApp.java",
+    "destination": "07-colecciones/src/modulo5/coleccionDatos/PostOfficeApp.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo5/coleccionDatos/Principal.java",
+    "destination": "07-colecciones/src/modulo5/coleccionDatos/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo5/coleccionDatos/Usuario.java",
+    "destination": "07-colecciones/src/modulo5/coleccionDatos/Usuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/EjemploDaeCalendar.java",
+    "destination": "10-utilidades/src/modulo6/dateExceptions/EjemploDaeCalendar.java",
+    "reason": "",
+    "notes": [
+      "Reparación de tildes dañadas"
+    ]
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/EjemploExcepcionesBasico.java",
+    "destination": "08-excepciones/src/modulo6/dateExceptions/EjemploExcepcionesBasico.java",
+    "reason": "",
+    "notes": [
+      "Reparación de tildes dañadas",
+      "Corregir nombre de clase de reflexión al paquete real",
+      "Usar constructor explícito en reflexión",
+      "Evitar argumentos varargs null innecesarios"
+    ]
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/EjemploExp.java",
+    "destination": "08-excepciones/src/modulo6/dateExceptions/EjemploExp.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/ExcepcionsCheck.java",
+    "destination": "08-excepciones/src/modulo6/dateExceptions/ExcepcionsCheck.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/PasswordChecker.java",
+    "destination": "08-excepciones/src/modulo6/dateExceptions/PasswordChecker.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/Persona.java",
+    "destination": "08-excepciones/src/modulo6/dateExceptions/Persona.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo6/dateExceptions/Pierna.java",
+    "destination": "08-excepciones/src/modulo6/dateExceptions/Pierna.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/AccesoDatos.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/Principal.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/ejemplosClase/Aucorsa.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/ejemplosClase/ConexionBasica.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/ejemplosClase/ConnectionManagerV1.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/ejemplosClase/EjemplosInsertUpdateyDelete.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo7/accesoDatos/ejemplosClase/Principal.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo8/interfaceSwing/InterfazAucorsa.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/modulo8/interfaceSwing/InterfazAucorsaTab.java",
+    "destination": null,
+    "reason": "Acceso a Datos / JDBC / Aucorsa",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/utils/Util.java",
+    "destination": "10-utilidades/src/utils/Util.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/utils/Utils.java",
+    "destination": "10-utilidades/src/utils/Utils.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "programacionDAM",
+    "commit": "e95fae8d7e78ae9358301aac161152531f7a0dcd",
+    "source": "DAM_PROGRAMACION/src/utils/UtilsArrays.java",
+    "destination": "10-utilidades/src/utils/UtilsArrays.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": ".gitignore",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": ".idea/.gitignore",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": ".idea/misc.xml",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": ".idea/modules.xml",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": ".idea/vcs.xml",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "Ejericios.iml",
+    "destination": null,
+    "reason": "Metadatos de IDE/sistema o configuración histórica sustituida por .gitignore común",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/EjerciciosString.java",
+    "destination": "04-arrays-strings/src/EjerciciosString.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/ExamenPrimitivas.java",
+    "destination": null,
+    "reason": "Examen / solución evaluable",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/HundirFlota1D.java",
+    "destination": "09-proyectos/hundir-flota-1d/src/HundirFlota1D.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/Iteradores.java",
+    "destination": "03-bucles/src/Iteradores.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/Principal.java",
+    "destination": "05-poo/src/Principal.java",
+    "reason": "",
+    "notes": [
+      "Retirada de imports ajenos no utilizados",
+      "Inicializar cada Granja antes de usarla para evitar NullPointerException"
+    ]
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/Repaso.java",
+    "destination": "04-arrays-strings/src/Repaso.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/TresEnRaya.java",
+    "destination": "09-proyectos/tres-en-raya/src/TresEnRaya.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/objetos/Animal.java",
+    "destination": "05-poo/src/objetos/Animal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/objetos/Granja.java",
+    "destination": "05-poo/src/objetos/Granja.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/objetos/Persona.java",
+    "destination": "05-poo/src/objetos/Persona.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/EntrenadorPokemon.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/EntrenadorPokemon.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/Pokeball.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/Pokeball.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/Pokemon.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/Pokemon.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/PokemonAgua.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/PokemonAgua.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/PokemonBaseImpl.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/PokemonBaseImpl.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/PokemonFuego.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/PokemonFuego.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/PokemonTierra.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/PokemonTierra.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/Principal.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/Principal.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/TIPOPokeballs.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/TIPOPokeballs.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/pokemon/TIPOPokemon.java",
+    "destination": "09-proyectos/pokemon/src/pokemon/TIPOPokemon.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/App.java",
+    "destination": null,
+    "reason": "Esqueleto vacío sin implementación docente",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/Evento.java",
+    "destination": "08-excepciones/src/recap/Evento.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/EventoImpl.java",
+    "destination": "08-excepciones/src/recap/EventoImpl.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/EventoOnline.java",
+    "destination": "08-excepciones/src/recap/EventoOnline.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/EventoPresencial.java",
+    "destination": "08-excepciones/src/recap/EventoPresencial.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/PassException.java",
+    "destination": "08-excepciones/src/recap/PassException.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/PasswordException.java",
+    "destination": "08-excepciones/src/recap/PasswordException.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/Principal.java",
+    "destination": "08-excepciones/src/recap/Principal.java",
+    "reason": "",
+    "notes": [
+      "Retirada de imports ajenos no utilizados"
+    ]
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/TipoErrorPassword.java",
+    "destination": "08-excepciones/src/recap/TipoErrorPassword.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/recap/Usuario.java",
+    "destination": "08-excepciones/src/recap/Usuario.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/utilidades/Arrays.java",
+    "destination": "04-arrays-strings/src/utilidades/Arrays.java",
+    "reason": "",
+    "notes": [
+      "Retirada de imports ajenos no utilizados"
+    ]
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/utilidades/Matrices.java",
+    "destination": "04-arrays-strings/src/utilidades/Matrices.java",
+    "reason": "",
+    "notes": [
+      "Retirada de imports ajenos no utilizados"
+    ]
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/utilidades/SumarPrimos.java",
+    "destination": "03-bucles/src/utilidades/SumarPrimos.java",
+    "reason": "",
+    "notes": []
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/utilidades/Utils.java",
+    "destination": "10-utilidades/src/utilidades/Utils.java",
+    "reason": "",
+    "notes": [
+      "Retirada de texto accidental sin finalidad docente en Javadoc"
+    ]
+  },
+  {
+    "repo": "Ejericios",
+    "commit": "61255a12abfec0272fbe8a9cb8597a992728f7de",
+    "source": "src/utilidades/ejercicioSumaPrimos.java",
+    "destination": "03-bucles/src/utilidades/ejercicioSumaPrimos.java",
+    "reason": "",
+    "notes": []
+  }
+]

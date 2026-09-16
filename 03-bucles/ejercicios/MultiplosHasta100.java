@@ -1,5 +1,3 @@
-package bucles.ejercicios;
-
 import java.util.Scanner;
 
 public class MultiplosHasta100 {

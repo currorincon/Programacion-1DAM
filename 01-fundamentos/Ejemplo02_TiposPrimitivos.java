@@ -1,5 +1,3 @@
-package fundamentos;
-
 public class Ejemplo02_TiposPrimitivos {
     public static void main(String[] args) {
         int numEntero = 4 + 6;

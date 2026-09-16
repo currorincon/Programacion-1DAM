@@ -23,3 +23,7 @@ El nuevo repositorio se construye a partir de material docente existente, pero l
 ## Repositorios de origen
 
 Los repositorios históricos no se modifican ni eliminan. Este repositorio es una selección limpia y reorganizada para 1º DAM.
+
+## Resultado
+
+Migración completada para revisión en `importacion-material`. Véase [el inventario de los 143 archivos incorporados](docs/MIGRACION.md) y [las limitaciones heredadas](docs/LIMITACIONES_DOCENTES.md). No se fusiona a `main` ni se elimina material anterior.

@@ -1,5 +1,3 @@
-package fundamentos;
-
 import java.util.Scanner;
 
 public class Ejemplo03_Scanner {

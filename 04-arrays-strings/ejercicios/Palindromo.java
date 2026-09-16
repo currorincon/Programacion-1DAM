@@ -1,5 +1,3 @@
-package arraysstrings.ejercicios;
-
 import java.util.Scanner;
 
 public class Palindromo {

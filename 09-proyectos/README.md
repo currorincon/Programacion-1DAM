@@ -1,5 +1,11 @@
-# Proyectos
+# 09-proyectos
 
-Proyectos integradores del módulo. Aquí se incorporarán proyectos seleccionados como Tres en Raya, Space Invaders y otros ejercicios que combinen varios bloques del curso.
+Pokémon, Space Invader, colección de antigüedades, Hundir la Flota 1D y dos variantes de Tres en Raya.
 
-No se incluirán exámenes ni soluciones de pruebas evaluables vigentes.
+**26 archivos Java incorporados.**
+
+Cada subcarpeta contiene su propio `src`.
+
+Compila desde la raíz siguiendo el [README general](../README.md). Los ejemplos pueden depender de `10-utilidades/src`.
+
+Consulta el [inventario exacto](../docs/MIGRACION.md) y las [limitaciones docentes](../docs/LIMITACIONES_DOCENTES.md).

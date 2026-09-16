@@ -1,5 +1,3 @@
-package condicionales.ejercicios;
-
 import java.util.Scanner;
 
 public class ComprobarNumeroPar {
