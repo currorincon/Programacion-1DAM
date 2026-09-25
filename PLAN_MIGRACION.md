@@ -1,3 +1,5 @@
+> Actualización: los ejercicios están agrupados en `00-ejercicios`. Por petición del docente, los exámenes inicialmente excluidos se recuperan en `11-examenes`. Las exclusiones de exámenes indicadas a continuación describen el plan inicial, no el estado actual.
+
 # Criterio de selección del material histórico
 
 El nuevo repositorio se construye a partir de material docente existente, pero los repositorios originales permanecen intactos.

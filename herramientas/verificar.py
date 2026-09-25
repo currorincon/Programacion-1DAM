@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Comprueba la selección, compila todo y ejecuta casos representativos."""
+import hashlib
 import json
 import re
 import subprocess
@@ -8,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 rows = json.loads((ROOT / 'docs/inventario-migracion.json').read_text())
-files = sorted(p for p in ROOT.rglob('*.java') if '.git' not in p.parts)
+files = sorted((ROOT / '00-ejercicios').rglob('*.java'))
 assert len(files) == 149, f'Se esperaban 149 fuentes, hay {len(files)}'
 classes = set()
 for p in files:
@@ -36,7 +37,12 @@ for p in ROOT.rglob('*'):
         continue
     assert p.name not in {'.DS_Store', '.idea', '.project', '.classpath', '.settings'}, p
     assert p.suffix not in {'.iml', '.class'}, p
-    assert not any(s.lower() in {'examen', 'examenes', 'accesodatos'} for s in p.parts), p
+    assert not any(s.lower() == 'accesodatos' for s in p.parts), p
+
+exams = sorted((ROOT / '11-examenes').rglob('*.java'))
+assert len(exams) == 4
+for entry in json.loads((ROOT / '11-examenes/inventario.json').read_text()):
+    assert hashlib.sha256((ROOT / entry['path']).read_bytes()).hexdigest() == entry['sha256'], entry
 
 cases = [
     ('bienvenida.ejercicios.Ejemplo01_HolaMundo', '', ['Hola Mundo4']),
@@ -52,9 +58,9 @@ cases = [
 ]
 with tempfile.TemporaryDirectory(prefix='programacion-1dam-') as temp:
     subprocess.run(['javac', '--release', '17', '-encoding', 'UTF-8', '-d', temp,
-                    *map(str, files)], check=True)
+                    *map(str, files + exams)], check=True)
     for classname, stdin, expected in cases:
         result = subprocess.run(['java', '-cp', temp, classname], input=stdin,
                                 capture_output=True, text=True, timeout=10, check=True)
         assert all(s in result.stdout for s in expected), (classname, result.stdout)
-print(f'OK: {len(files)} Java compilados; paquetes, exclusiones y {len(cases)} casos verificados.')
+print(f'OK: {len(files)} ejercicios y {len(exams)} archivos de exámenes compilados; paquetes, exclusiones y {len(cases)} casos verificados.')
