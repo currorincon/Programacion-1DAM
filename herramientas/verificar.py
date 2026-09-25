@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 rows = json.loads((ROOT / 'docs/inventario-migracion.json').read_text())
-files = sorted((ROOT / '00-ejercicios').rglob('*.java'))
+files = sorted(p for block in ROOT.iterdir() if block.is_dir() and block.name[:2] in {f'{n:02}' for n in range(1, 11)} for p in block.rglob('*.java'))
 assert len(files) == 149, f'Se esperaban 149 fuentes, hay {len(files)}'
 classes = set()
 for p in files:

@@ -1,4 +1,4 @@
-> Actualización: los ejercicios están agrupados en `00-ejercicios`. Por petición del docente, los exámenes inicialmente excluidos se recuperan en `11-examenes`. Las exclusiones de exámenes indicadas a continuación describen el plan inicial, no el estado actual.
+> Actualización: los bloques de ejercicios están en la raíz y se enlazan desde `00-ejercicios`. Por petición del docente, los exámenes inicialmente excluidos se recuperan en `11-examenes`. Las exclusiones de exámenes indicadas a continuación describen el plan inicial, no el estado actual.
 
 # Criterio de selección del material histórico
 

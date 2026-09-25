@@ -8,11 +8,11 @@ Exámenes recuperados de los repositorios originales, sin alterar su código ni 
 
 Son 4 archivos Java. Se conservan sus enunciados y soluciones tal como estaban; hay métodos incompletos y variantes comentadas. `Ejercicio01_NotaDeExamen.java` continúa en condicionales porque es un ejercicio sobre notas, no un examen.
 
-Los imports `utils` y `utilidades` usan las clases de `00-ejercicios/10-utilidades/src`. Los exámenes se compilan junto con los ejercicios con:
+Los imports `utils` y `utilidades` usan las clases de `10-utilidades/src`. Los exámenes se compilan junto con los ejercicios con:
 
 ```sh
 mkdir -p build/classes
-find 00-ejercicios 11-examenes -name '*.java' -print > build/fuentes.txt
+find 0[1-9]-* 10-utilidades 11-examenes -name '*.java' -print > build/fuentes.txt
 javac --release 17 -encoding UTF-8 -d build/classes @build/fuentes.txt
 ```
 
